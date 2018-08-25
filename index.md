@@ -1,3 +1,3 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+Just learning how to use Github and I have to say: I LOVE PIZZA!!
